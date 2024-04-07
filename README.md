@@ -26,12 +26,12 @@ npm install npm@latest -g
 ```
 
 ## Initial Setup
-To initialize a React app named "soldierfrontend" using Create React App, run the following command:
+To initialize a React app named "SoldierPage_Frontend-master" using Create React App, run the following command:
 
 ```bash
 npx create-react-app soldierfrontend
 ```
- You can clone this repository for your own use [https://github.com/shiv-1203/SoldierPage_Frontend.git](https://github.com/shiv-1203/SoldierPage_Frontend.git)
+ You can clone this repository for your own use [https://github.com/shiv-1203/SoldierPage_Frontend.git](https://github.com/DurgaPrasad172/SoldierPage_Frontend.git)
 
 ## Required Module Installation
 Install the following modules to ensure proper functionality:
